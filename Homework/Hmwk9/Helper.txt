@@ -1,0 +1,1 @@
+g++ -std=c++11 -g3 Companions.cpp Date.cpp Game.cpp Player.cpp Supplies.cpp Driver.cpp Store.cpp Milestones.cpp
