@@ -3,8 +3,7 @@
 #include <cstdlib>
 #include <unistd.h>
 #include <stdio.h>
-using namespace std; 
-//Student id num: 108969832
+using namespace std;
 
 int solarCharge (int minOfSunlight){
     int batteryChargePercentage = 0;
