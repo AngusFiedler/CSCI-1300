@@ -4,7 +4,6 @@
 #include <unistd.h>
 #include <stdio.h>
 using namespace std; 
-//Student id num: 108969832
 
 int CountLower(string input){
     int counter = 0;
